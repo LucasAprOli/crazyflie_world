@@ -4,6 +4,7 @@
     <static>true</static>
     <link name="link">
       <visual name="visual">
+        <cast_shadows>true</cast_shadows>
         <geometry>
           <mesh>
             <uri>model://open_map/meshes/open_map.obj</uri>
